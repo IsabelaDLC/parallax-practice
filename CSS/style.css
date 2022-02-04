@@ -1,0 +1,12 @@
+body{
+    background-color: brown;
+}
+.container{
+    width:50%;
+}
+
+
+
+    .navbar-collapse{
+      background-color: white !important;
+    }
